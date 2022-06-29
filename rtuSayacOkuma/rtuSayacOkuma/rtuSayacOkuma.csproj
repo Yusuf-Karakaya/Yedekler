@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+    <PackageReference Include="NModbus" Version="3.0.72" />
+
+    <PackageReference Include="System.IO.Ports" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+
+    <Reference Include="NModbus">
+      <HintPath>..\..\..\..\.nuget\packages\nmodbus\3.0.72\lib\net6.0\NModbus.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

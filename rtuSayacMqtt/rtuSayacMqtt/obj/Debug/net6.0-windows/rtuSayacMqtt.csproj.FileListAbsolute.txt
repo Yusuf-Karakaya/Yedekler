@@ -1,0 +1,7 @@
+C:\Users\ykarakaya\source\repos\rtuSayacMqtt\rtuSayacMqtt\obj\Debug\net6.0-windows\rtuSayacMqtt.csproj.AssemblyReference.cache
+C:\Users\ykarakaya\source\repos\rtuSayacMqtt\rtuSayacMqtt\obj\Debug\net6.0-windows\rtuSayac.Form1.resources
+C:\Users\ykarakaya\source\repos\rtuSayacMqtt\rtuSayacMqtt\obj\Debug\net6.0-windows\rtuSayacMqtt.csproj.GenerateResource.cache
+C:\Users\ykarakaya\source\repos\rtuSayacMqtt\rtuSayacMqtt\obj\Debug\net6.0-windows\rtuSayacMqtt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ykarakaya\source\repos\rtuSayacMqtt\rtuSayacMqtt\obj\Debug\net6.0-windows\rtuSayacMqtt.AssemblyInfoInputs.cache
+C:\Users\ykarakaya\source\repos\rtuSayacMqtt\rtuSayacMqtt\obj\Debug\net6.0-windows\rtuSayacMqtt.AssemblyInfo.cs
+C:\Users\ykarakaya\source\repos\rtuSayacMqtt\rtuSayacMqtt\obj\Debug\net6.0-windows\rtuSayacMqtt.csproj.CoreCompileInputs.cache

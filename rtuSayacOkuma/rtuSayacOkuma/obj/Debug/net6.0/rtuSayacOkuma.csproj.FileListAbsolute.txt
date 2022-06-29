@@ -1,0 +1,17 @@
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\bin\Debug\net6.0\rtuSayacOkuma.exe
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\bin\Debug\net6.0\rtuSayacOkuma.deps.json
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\bin\Debug\net6.0\rtuSayacOkuma.runtimeconfig.json
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\bin\Debug\net6.0\rtuSayacOkuma.dll
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\bin\Debug\net6.0\rtuSayacOkuma.pdb
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\bin\Debug\net6.0\EasyModbus.dll
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\obj\Debug\net6.0\rtuSayacOkuma.csproj.AssemblyReference.cache
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\obj\Debug\net6.0\rtuSayacOkuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\obj\Debug\net6.0\rtuSayacOkuma.AssemblyInfoInputs.cache
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\obj\Debug\net6.0\rtuSayacOkuma.AssemblyInfo.cs
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\obj\Debug\net6.0\rtuSayacOkuma.csproj.CoreCompileInputs.cache
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\obj\Debug\net6.0\rtuSayacOkuma.csproj.CopyComplete
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\obj\Debug\net6.0\rtuSayacOkuma.dll
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\obj\Debug\net6.0\refint\rtuSayacOkuma.dll
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\obj\Debug\net6.0\rtuSayacOkuma.pdb
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\obj\Debug\net6.0\rtuSayacOkuma.genruntimeconfig.cache
+C:\Users\ykarakaya\source\repos\rtuSayacOkuma\rtuSayacOkuma\obj\Debug\net6.0\ref\rtuSayacOkuma.dll

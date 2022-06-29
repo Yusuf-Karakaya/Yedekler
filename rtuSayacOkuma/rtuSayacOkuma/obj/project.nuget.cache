@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "4CXBl/qSmzaDLyLIZ5RMdW5AtT/I35wkii6j/A92ypMnBRWZG7jyhUN0nZKj8Da5QOMsRcMvPX5AKADOJtPZtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ykarakaya\\source\\repos\\rtuSayacOkuma\\rtuSayacOkuma\\rtuSayacOkuma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ykarakaya\\.nuget\\packages\\nmodbus\\3.0.72\\nmodbus.3.0.72.nupkg.sha512",
+    "C:\\Users\\ykarakaya\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\ykarakaya\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\ykarakaya\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\ykarakaya\\.nuget\\packages\\runtime.native.system.io.ports\\6.0.0\\runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\ykarakaya\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\ykarakaya\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\ykarakaya\\.nuget\\packages\\system.io.ports\\6.0.0\\system.io.ports.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
