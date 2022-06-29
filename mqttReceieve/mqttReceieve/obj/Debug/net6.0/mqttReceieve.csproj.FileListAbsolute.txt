@@ -1,0 +1,17 @@
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\obj\Debug\net6.0\mqttReceieve.csproj.AssemblyReference.cache
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\obj\Debug\net6.0\mqttReceieve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\obj\Debug\net6.0\mqttReceieve.AssemblyInfoInputs.cache
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\obj\Debug\net6.0\mqttReceieve.AssemblyInfo.cs
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\obj\Debug\net6.0\mqttReceieve.csproj.CoreCompileInputs.cache
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\bin\Debug\net6.0\mqttReceieve.exe
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\bin\Debug\net6.0\mqttReceieve.deps.json
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\bin\Debug\net6.0\mqttReceieve.runtimeconfig.json
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\bin\Debug\net6.0\mqttReceieve.dll
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\bin\Debug\net6.0\mqttReceieve.pdb
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\bin\Debug\net6.0\M2Mqtt.Net.dll
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\obj\Debug\net6.0\mqttReceieve.csproj.CopyComplete
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\obj\Debug\net6.0\mqttReceieve.dll
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\obj\Debug\net6.0\refint\mqttReceieve.dll
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\obj\Debug\net6.0\mqttReceieve.pdb
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\obj\Debug\net6.0\mqttReceieve.genruntimeconfig.cache
+C:\Users\ykarakaya\source\repos\mqttReceieve\mqttReceieve\obj\Debug\net6.0\ref\mqttReceieve.dll
