@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mQTT_haberlesme/1.0.0": {
+        "dependencies": {
+          "MQTTnet": "4.0.1.184"
+        },
+        "runtime": {
+          "mQTT_haberlesme.dll": {}
+        }
+      },
+      "MQTTnet/4.0.1.184": {
+        "runtime": {
+          "lib/net6.0/MQTTnet.dll": {
+            "assemblyVersion": "4.0.1.184",
+            "fileVersion": "4.0.1.184"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mQTT_haberlesme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MQTTnet/4.0.1.184": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vcWMbHUNWOb9LwfJzBAWW5UzUm/nRqS20UhoSbGeVwzAGHzjZFtLMAoHzK7uoWq/yBhH6ZsPmUosXnD07NkkjQ==",
+      "path": "mqttnet/4.0.1.184",
+      "hashPath": "mqttnet.4.0.1.184.nupkg.sha512"
+    }
+  }
+}

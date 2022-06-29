@@ -1,0 +1,17 @@
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\obj\Debug\net6.0\mQTT_haberlesme.csproj.AssemblyReference.cache
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\obj\Debug\net6.0\mQTT_haberlesme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\obj\Debug\net6.0\mQTT_haberlesme.AssemblyInfoInputs.cache
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\obj\Debug\net6.0\mQTT_haberlesme.AssemblyInfo.cs
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\obj\Debug\net6.0\mQTT_haberlesme.csproj.CoreCompileInputs.cache
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\bin\Debug\net6.0\mQTT_haberlesme.exe
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\bin\Debug\net6.0\mQTT_haberlesme.deps.json
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\bin\Debug\net6.0\mQTT_haberlesme.runtimeconfig.json
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\bin\Debug\net6.0\mQTT_haberlesme.dll
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\bin\Debug\net6.0\mQTT_haberlesme.pdb
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\bin\Debug\net6.0\MQTTnet.dll
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\obj\Debug\net6.0\mQTT_haberlesme.csproj.CopyComplete
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\obj\Debug\net6.0\mQTT_haberlesme.dll
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\obj\Debug\net6.0\refint\mQTT_haberlesme.dll
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\obj\Debug\net6.0\mQTT_haberlesme.pdb
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\obj\Debug\net6.0\mQTT_haberlesme.genruntimeconfig.cache
+C:\Users\ykarakaya\source\repos\mQTT_haberlesme\mQTT_haberlesme\obj\Debug\net6.0\ref\mQTT_haberlesme.dll

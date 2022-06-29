@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PN5lAdMyx4DwdCCZG2DQIXzpoLlFH+jSwEJjRPN972E/aveb1gCZod5QOSJXZK5qhjxYYexdj1SA/ANScNAaGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ykarakaya\\source\\repos\\mQTT_haberlesme\\Consumer\\Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ykarakaya\\.nuget\\packages\\mqttnet\\4.0.1.184\\mqttnet.4.0.1.184.nupkg.sha512"
+  ],
+  "logs": []
+}
