@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mqtt_Haberlesme_", "Mqtt_Haberlesme_\Mqtt_Haberlesme_.csproj", "{AAA22057-631D-4153-AF93-82B9AEB4C30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA22057-631D-4153-AF93-82B9AEB4C30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA22057-631D-4153-AF93-82B9AEB4C30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA22057-631D-4153-AF93-82B9AEB4C30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA22057-631D-4153-AF93-82B9AEB4C30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7D8A581-59C6-4D60-8111-8B668C6812C4}
+	EndGlobalSection
+EndGlobal
