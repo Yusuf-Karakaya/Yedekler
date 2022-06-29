@@ -1,0 +1,14 @@
+ MqttClient mqttClientRecieve = new MqttClient("broker.hivemq.com");
+            mqttClientRecieve.MqttMsgPublishReceived += MqttClient_MqttMsgPublishReceived;
+            string clientId = Guid.NewGuid().ToString();
+
+
+            mqttClientRecieve.Connect(clientId);
+            Console.WriteLine("Abone olundu : test/deneme");
+            mqttClientRecieve.Subscribe(new String[] { "" }, new byte[] { MqttMsgBase.QOS_LEVEL_AT_LEAST_ONCE });
+             
+            private static void MqttClient_MqttMsgPublishReceived(object sender, MqttMsgPublishEventArgs e)
+            {
+            var message=System.Text.Encoding.Default.GetString(e.Message);
+            System.Console.WriteLine("alınan mesaj :"+message);
+            }

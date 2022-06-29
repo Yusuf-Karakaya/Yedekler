@@ -1,0 +1,8 @@
+distance olarak konuşacak olursak
+rs485 1200 metreye kadar iletim yapabilirken
+rs232 ise sadece 15 metre iletim yapabiliyor.
+rs232 sn de 20 kbps ile iletim sağlarken
+rs-485 ise 10mbps lük bir iletim hızı ile iletim sağlar.
+rs232 bir cihazdan bir cihaza(point to point) iletim yapabilirken yani sadece bir cihaz ile yapılabilir.
+rs485 bir cihazdan birden fazla(multi-point) cihaza iletim yapabilir.
+rs485 32 cihaza ile bağlantı yapabilir.
